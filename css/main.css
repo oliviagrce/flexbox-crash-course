@@ -7,7 +7,7 @@ html {
 }
 
 .flex-container {
-
+  display: flex;
 }
 
 .flex-item {
